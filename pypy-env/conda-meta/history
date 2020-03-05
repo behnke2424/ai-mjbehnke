@@ -1,0 +1,22 @@
+==> 2020-03-03 15:28:20 <==
+# cmd: /home/mav/anaconda3/bin/conda create -p ./pypy-env -c conda-forge pypy3.6
+# conda version: 4.8.2
++conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge
++conda-forge/linux-64::_openmp_mutex-4.5-0_gnu
++conda-forge/linux-64::bzip2-1.0.8-h516909a_2
++conda-forge/linux-64::ca-certificates-2019.11.28-hecc5488_0
++conda-forge/linux-64::expat-2.2.9-he1b5a44_2
++conda-forge/linux-64::gdbm-1.18-h0a1914f_1
++conda-forge/linux-64::libffi-3.2.1-he1b5a44_1006
++conda-forge/linux-64::libgcc-ng-9.2.0-h24d8f2e_2
++conda-forge/linux-64::libgomp-9.2.0-h24d8f2e_2
++conda-forge/linux-64::libstdcxx-ng-9.2.0-hdf63c60_2
++conda-forge/linux-64::ncurses-6.1-hf484d3e_1002
++conda-forge/linux-64::openssl-1.1.1d-h516909a_0
++conda-forge/linux-64::pypy3.6-7.3.0-h0b86377_2
++conda-forge/linux-64::readline-8.0-hf8c457e_0
++conda-forge/linux-64::sqlite-3.30.1-hcee41ef_0
++conda-forge/linux-64::tk-8.6.10-hed695b0_0
++conda-forge/linux-64::xz-5.2.4-h14c3975_1001
++conda-forge/linux-64::zlib-1.2.11-h516909a_1006
+# update specs: ['pypy3.6']
