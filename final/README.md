@@ -16,3 +16,13 @@
 <br>
 <p>Model without Hyperparameters -- Classification Report</p>
 <img width = "500" height= "400" src="ResultsAndModels/BeforeHyperParameters.PNG">
+<br>
+<p>Model with Hyperparameters</p>
+<img width = "500" height= "400" src="ResultsAndModels/AfterHyperparameters.PNG">
+<br>
+<p>Model with Hyperparameters -- Classification Report</p>
+<img width = "500" height= "400" src="ResultsAndModels/HypeparameterResults.PNG">
+<br>
+<p>Model with Hyperparameters -- Results Graph</p>
+<img width = "500" height= "400" src="ResultsAndModels/HyperparameterGraph.PNG">
+
