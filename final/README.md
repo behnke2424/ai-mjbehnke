@@ -11,5 +11,8 @@
 + <a href="https://github.com/behnke2424/ai-mjbehnke/blob/master/final/weatherAUS.csv" target="_blank">Weather Data</a>
 
 ## Models and Results
-<p>Model with Hyperparameters</p>
+<p>Model without Hyperparameters</p>
 <img width = "500" height= "400" src="ResultsAndModels/NoHyperparameters.PNG">
+<br>
+<p>Model without Hyperparameters -- Classification Report</p>
+<img width = "500" height= "400" src="ResultsAndModels/BeforeHyperParameters.PNG">
