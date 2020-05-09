@@ -12,4 +12,4 @@
 
 ## Models and Results
 <p>Model with Hyperparameters</p>
-<img width = "400" height= "400" src="ResultsAndModels/NoHyperparameters.PNG">
+<img width = "500" height= "400" src="ResultsAndModels/NoHyperparameters.PNG">
