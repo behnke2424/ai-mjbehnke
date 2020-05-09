@@ -1,5 +1,5 @@
 # ai-mjbehnke
-## 2020 Artifical Intelligence CMU Course Repo
+## Spring 2020 Artifical Intelligence CMU Course Repo
 
 ## Navigation
 + <a href="https://https://github.com/behnke2424/ai-mjbehnke/tree/master/final" target="_blank">Final Project</a>
